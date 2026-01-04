@@ -32,6 +32,8 @@ This phase will integrate cleaned data into a structured PESTEL framework:
 - ⚖️ **Legal:** Trade laws, carbon taxes, international compliance
 
 ---
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/53d02130-8b94-44f3-bb9a-108ac23f21ec" />
+
 
 ## 🛠️ Tools & Technologies
 
