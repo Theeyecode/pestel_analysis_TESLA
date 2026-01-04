@@ -33,6 +33,8 @@ This phase will integrate cleaned data into a structured PESTEL framework:
 
 ---
 <img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/53d02130-8b94-44f3-bb9a-108ac23f21ec" />
+<img width="2000" height="1156" alt="image" src="https://github.com/user-attachments/assets/d1e205db-5d29-4a2b-baaf-cc4a43c38e96" />
+
 
 
 ## 🛠️ Tools & Technologies
